@@ -1,4 +1,4 @@
-📱 Simple Greeting App
+📱    Android Family Tree App
 
 My first app, I developed to test my skills with just three interfaces. A beginner-friendly Android application that interacts with users in a friendly way. It asks for the user's name, greets them with a personalized message, asks two fun questions, and finally displays a picture.
 
